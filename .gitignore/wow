@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+    <title>Wow</title>
+
+	<meta name="author" content="your name" />
+	<meta name="description" content="" />
+
+
+	<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+<body>
+
+
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">here it is
+			</a></h1>
+		</div>
+		<div id="nav">
+			<ul>
+				<li><a href="website.html">Home</a></li>
+
+			</ul>
+		</div>
+		<div id="content">
+			<h2></h2>
+			<p>
+				 Oof
+
+			</p>
+			<p>
+				Get ready for some wow.
+			</p>
+      <a class="button1" href="https://www.youtube.com/watch?v=0p7KY5cKFr4"><div>here we goooooo</div></a>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank">[charles]</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
