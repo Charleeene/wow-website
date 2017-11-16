@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- your webpage info goes here -->
+
+    <title>Wow</title>
+
+	<meta name="author" content="your name" />
+	<meta name="description" content="" />
+
+
+	<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+<body>
+
+
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Owen Wilson saying wow
+			<a class="button1" href="WOW.html"><div>WOW</div></a>
+			</a></h1>
+		</div>
+		<div id="nav">
+			<ul>
+
+			</ul>
+		</div>
+		<div id="content">
+			<h2>WOW</h2>
+			<p>
+				Lllllllllllllladies and gentelmen
+
+			</p>
+			<p>
+				Get ready for some wow.
+			</p>
+			<a class="button1" href="WOW.html"><div>WOW</div></a>
+
+      <a class="button1" href="kerchoo.html"><div>KACHOW</div></a>
+
+		</div>
+
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank">[charles]</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
